@@ -35,6 +35,10 @@ section {
     overflow: hidden;
 }
 
+.desk-hide {
+    display: none;
+}
+
 .overlay {
     position: absolute;
     width: 100%;
@@ -311,6 +315,10 @@ section {
 }
 
 @media (max-width: 920px) {
+    .desk-hide {
+        display: block;
+    }
+
     .hamburger-menu-container {
         display: flex;
     }
