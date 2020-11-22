@@ -1,5 +1,5 @@
 
-# Responsive-And-Animated-Navbar-With-Multi-level-Drodown
+# Responsive, Animated Navbar With Multi-level Dropdowns
 
 Solve this issue once and for all.
 
